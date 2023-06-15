@@ -23,4 +23,4 @@ Roles: Fullstack Developer
 
 ## Contact Me 📫
 
-Feel free to reach out to me via email at yohanankli@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/yohanan-kling/). I'm always open to exciting collaborations and new opportunities!
+Feel free to reach out to me via [email](mailto:yohanankli@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yohanan-kling/). I'm always open to exciting collaborations and new opportunities!
