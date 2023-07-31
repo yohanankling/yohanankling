@@ -1,6 +1,17 @@
 # Hi, I'm Yohanan 👋
 
-Welcome to my GitHub! I'm a software developer with a passion for learning new technologies and creating cool projects!
+### Welcome to my GitHub!
+
+<details>
+   <summary>
+      <b>👤 About me</b>
+   </summary>
+</br>
+<p>
+I'm a 3rd-year computer science student in Ariel university, with a passion for exploring and programming in new technologies. As a software developer, I love creating cool projects and continuously learning in the world of development. Welcome to my GitHub! 
+</p>
+
+</details>
 
 <details>
    <summary>
@@ -43,5 +54,7 @@ Welcome to my GitHub! I'm a software developer with a passion for learning new t
 
 
 ## Contact Me 📫
-
-Feel free to reach out to me via [email](mailto:yohanankli@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yohanan-kling/). I'm always open to exciting collaborations and new opportunities!
+Feel free to reach out to me via:
+[email](mailto:yohanankli@gmail.com) / [LinkedIn](https://www.linkedin.com/in/yohanan-kling/).
+</br>
+I'm always open to exciting collaborations and new opportunities!
