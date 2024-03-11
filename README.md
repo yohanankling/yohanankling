@@ -55,6 +55,6 @@ I'm a 3rd-year computer science student in Ariel university, with a passion for 
 
 ## Contact Me 📫
 Feel free to reach out to me via:
-[email](mailto:yohanankli@gmail.com) / [LinkedIn](https://www.linkedin.com/in/yohanan-kling/).
+[Email](mailto:yohanankli@gmail.com) / [LinkedIn](https://www.linkedin.com/in/yohanan-kling/).
 </br>
 I'm always open to exciting collaborations and new opportunities!
