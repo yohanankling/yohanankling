@@ -8,7 +8,7 @@
    </summary>
 </br>
 <p>
-I'm a 3rd-year computer science student in Ariel university, with a passion for exploring and programming in new technologies. As a software developer, I love creating cool projects and continuously learning in the world of development. Welcome to my GitHub! 
+I'm a Software Developer and a B.Sc graduate in Computer Science and Mathematics, driven by a passion for exploring and programming with new technologies. As a full-stack developer, I thrive on building innovative and user-centered web applications. My expertise lies in JavaScript, React, Node.js, and Python, while also possessing a strong foundation in Java, C, and C++. I love creating cool projects and continuously learning in the ever-evolving world of development. Welcome to my GitHub!
 </p>
 
 </details>
