@@ -46,10 +46,10 @@ I'm a Software Developer and a B.Sc graduate in Computer Science and Mathematics
    
    <h3>Here are some of the projects I've been working on:</h3>
    
-- [React Projects](https://github.com/yohanankling/FlagsWars): An online board game developed using React, Node.js, TypeScript, Express, Firebase, Firestore, CSS, and Express.
-- [Android Projects](https://github.com/yohanankling/Android-studio/tree/main/icebreaker): An Android app developed in Java for group and solo chatting, as well as inviting friends to play tic-tac-toe.
-- [Python Projects](https://github.com/yohanankling/python-projects/tree/main/pokemon%20game): A repository for learning and practicing graph algorithms like Dijkstra's algorithm and TSP. I've implemented a Pokémon game where agents need to collect as many Pokémon as possible on the graph using Dijkstra's shortest path algorithm.
-- [Java Projects](https://github.com/yohanankling/java-projects): A repository for learning and practicing Java. I've implemented various graph algorithms with a GUI for graph operations and a chat application using TSP and using UDP for file transfer.
+- [React Project](https://github.com/yohanankling/FlagsWars): An online board game developed using React, Node.js, TypeScript, Express, Firebase, Firestore, CSS, and Express.
+- [Android Project](https://github.com/yohanankling/ICEBREAKER-Android-Chat-App): An Android app developed in Java for group and solo chatting, as well as inviting friends to play tic-tac-toe.
+- [Python Project](https://github.com/yohanankling/Pokemon-Graph-Game): A repository for learning and practicing graph algorithms like Dijkstra's algorithm and TSP. I've implemented a Pokémon game where agents need to collect as many Pokémon as possible on the graph using Dijkstra's shortest path algorithm.
+- [Front Css Project](https://github.com/yohanankling/Css-showcase): Full front website of CSS styles and showcases for choosing the right style code.
 </details>
 
 
